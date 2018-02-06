@@ -1,0 +1,31 @@
+.container-fluid {	
+	background-color: slategrey;
+	
+}
+
+.nav.navbar-nav.navbar-right li a {
+	color: black;
+}
+
+body {
+	box-sizing: border-box;
+	min-height: 100vh;
+	margin: 0;
+    background-color: whitesmoke;
+	border-bottom: 20px solid slategrey;
+	padding-top: 1px;
+}
+
+h1 {
+    color: steelblue;
+	padding:10px 5px 15px 20px;
+	border-bottom: 2px solid slategrey;
+}
+
+div col-xs-6 col-md-8 {
+	background-color: white;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
