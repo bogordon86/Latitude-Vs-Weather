@@ -22,7 +22,7 @@ h1 {
 	border-bottom: 2px solid slategrey;
 }
 
-div col-xs-6 col-md-8 {
+col-xs-6 col-md-8 {
 	background-color: white;
     padding-top: 50px;
     padding-right: 30px;
@@ -31,5 +31,17 @@ div col-xs-6 col-md-8 {
 }
 
 panel panel-default {
+	background-color: white;
+	padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+panel-heading {
+	background-color: white;
+}
+
+panel-body {
 	background-color: white;
 }
