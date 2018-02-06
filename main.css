@@ -20,6 +20,10 @@
 	max-width: 100%;
 }
 
+.img-fluid {
+	max-width: 100%
+}
+
 .thumbnail {
 	max-width: 100%;
 }
