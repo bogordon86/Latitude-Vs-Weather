@@ -29,3 +29,7 @@ div col-xs-6 col-md-8 {
     padding-bottom: 50px;
     padding-left: 80px;
 }
+
+panel panel-default {
+	background-color: white;
+}
