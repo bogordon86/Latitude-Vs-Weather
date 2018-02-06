@@ -37,6 +37,20 @@
     padding-left: 80px;
 }
 
+.col-md-4 {
+	background-color: white;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+
+.col-sm-2 {
+	background-color: white;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
 .panel panel-default {
 	background-color: white;
 	padding-top: 50px;
