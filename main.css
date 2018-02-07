@@ -5,9 +5,8 @@ container-fluid {
 container {
 	background-color:whitesmoke;
 }
-nav navbar-nav navbar-right li a {
-	color: black;
-}
+
+
 
 body {
 	box-sizing: border-box;
@@ -27,6 +26,7 @@ img-thumbnail {
 
 thumbnail {
 	max-width: 100%;
+	height: auto;
 }
 
 h1 {
@@ -34,6 +34,9 @@ h1 {
 	border-bottom: 2px solid slategrey;
 }
 
+h3 {
+	color: steelblue;
+}
 col-xs-6 col-md-8 {
 	background-color: white;
     padding: 20px;
