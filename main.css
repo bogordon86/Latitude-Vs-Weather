@@ -51,10 +51,9 @@ col-lg-8 col-md-8 col-sm-12 {
 panel panel-default {
 	background-color: white;
 	padding: 20px;
+	margin: 5px;
 }
 
-panel-heading {
-	background-color: whitesmoke;
-}
+
 
 
