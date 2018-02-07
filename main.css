@@ -1,6 +1,7 @@
-container-fluid {	
-	background-color: slategrey !important;	
+container {
+	background-color: white;
 }
+
 
 nav {
 	background-color: slategrey;
