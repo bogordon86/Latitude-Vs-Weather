@@ -6,7 +6,6 @@ nav {
 container {
 	padding: 5px;
 	margin: 5px;
-	background: white;
 }
 
 body {
@@ -40,13 +39,14 @@ h3 {
 col-lg-2 col-md-2 col-sm-12 {
 	background-color: white;
     padding: 20px;
+	margin: 5px;
  
 }
 
 col-lg-8 col-md-8 col-sm-12 {
 	background-color: white;
     padding: 20px;
- 
+	margin: 5px;
 }
 panel panel-default {
 	background-color: white;
