@@ -2,7 +2,9 @@ container-fluid {
 	background-color: slategrey !important;	
 }
 
-
+nav {
+	background-color: slategrey;
+}
 
 
 
