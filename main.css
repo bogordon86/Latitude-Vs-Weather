@@ -17,11 +17,10 @@
 
 .img-thumbnail {
 	max-width: 100%;
+	height: auto;
 }
 
-.img-fluid {
-	max-width: 100%
-}
+
 
 .thumbnail {
 	max-width: 100%;
@@ -50,14 +49,11 @@
 }
 .panel panel-default {
 	background-color: white;
-	padding-top: 50px;
-    padding-right: 30px;
-    padding-bottom: 50px;
-    padding-left: 80px;
+	padding: 20px;
 }
 
 .panel-heading {
-	background-color: white;
+	background-color: whitesmoke;
 }
 
 
