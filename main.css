@@ -1,6 +1,4 @@
-row {
-	background_color: white;
-}
+
 
 col-lg-8 col-md-8 col-sm-12 {
 	background-color: white;
@@ -13,7 +11,6 @@ nav {
 
 
 body {
-	box-sizing: border-box;
 	min-height: 100vh;
 	margin: 0;
     background-color: whitesmoke;
@@ -41,21 +38,16 @@ h1 {
 h3 {
 	color: steelblue;
 }
-col-xs-6 col-md-8 {
+col-lg-2 col-md-2 col-sm-12 {
 	background-color: white;
     padding: 20px;
  
 }
 
-col-md-4 {
+col-lg-8 col-md-8 col-sm-12 {
 	background-color: white;
     padding: 20px;
-
-}
-
-col-sm-2 {
-	background-color: white;
-    padding: 20px;
+ 
 }
 panel panel-default {
 	background-color: white;
