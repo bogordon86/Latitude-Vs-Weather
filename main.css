@@ -1,14 +1,11 @@
 
-
-col-lg-8 col-md-8 col-sm-12 {
-	background-color: white;
-}
-
 nav {
 	background-color: slategrey;
 }
 
-
+container {
+	background-color: white;
+}
 
 body {
 	min-height: 100vh;
