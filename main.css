@@ -1,12 +1,15 @@
-.container-fluid {	
+container-fluid {	
 	background-color: slategrey !important;	
 }
 
-.nav.navbar-nav.navbar-right li a {
+container {
+	background-color:whitesmoke;
+}
+nav navbar-nav navbar-right li a {
 	color: black;
 }
 
-.body {
+body {
 	box-sizing: border-box;
 	min-height: 100vh;
 	margin: 0;
@@ -15,14 +18,14 @@
 	padding-top: 1px;
 }
 
-.img-thumbnail {
+img-thumbnail {
 	max-width: 100%;
 	height: auto;
 }
 
 
 
-.thumbnail {
+thumbnail {
 	max-width: 100%;
 }
 
@@ -31,28 +34,28 @@ h1 {
 	border-bottom: 2px solid slategrey;
 }
 
-.col-xs-6 col-md-8 {
+col-xs-6 col-md-8 {
 	background-color: white;
     padding: 20px;
  
 }
 
-.col-md-4 {
+col-md-4 {
 	background-color: white;
     padding: 20px;
 
 }
 
-.col-sm-2 {
+col-sm-2 {
 	background-color: white;
     padding: 20px;
 }
-.panel panel-default {
+panel panel-default {
 	background-color: white;
 	padding: 20px;
 }
 
-.panel-heading {
+panel-heading {
 	background-color: whitesmoke;
 }
 
