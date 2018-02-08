@@ -20,9 +20,9 @@ img-thumbnail {
 	max-width: 100%;
 	height: auto;
 }
-.navbar-toggle, .icon-bar {
-	background-color: #FF0000;
-    border:1px solid steelblue;
+
+.icon-bar {
+   background-color:#FF0000 !important;
 }
 
 
