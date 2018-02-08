@@ -20,10 +20,11 @@ img-thumbnail {
 	max-width: 100%;
 	height: auto;
 }
-
-.navbar-default .navbar-toggle .icon-bar {
-    background-color: steelblue;
+.navbar-toggle, .icon-bar {
+	background-color: #FF0000;
+    border:1px solid steelblue;
 }
+
 
 thumbnail {
 	max-width: 100%;
