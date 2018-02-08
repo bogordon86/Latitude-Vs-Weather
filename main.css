@@ -21,8 +21,8 @@ img-thumbnail {
 	height: auto;
 }
 
-button.navbar-toggle.collapsed {
-	color: steelblue;
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: steelblue;
 }
 
 thumbnail {
