@@ -21,7 +21,9 @@ img-thumbnail {
 	height: auto;
 }
 
-
+span .icon-bar {
+	color: steelblue;
+}
 
 thumbnail {
 	max-width: 100%;
