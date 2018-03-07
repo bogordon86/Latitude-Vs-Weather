@@ -4,6 +4,8 @@
 
 I created a visualization dashboard using HTML, Bootstrap, and CSS.
 
+The website is hosted here: https://bogordon86.github.io/Lattitude/
+
 My website has 7 pages:
 
 * A landing page containing:
