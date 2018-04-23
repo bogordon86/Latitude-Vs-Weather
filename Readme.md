@@ -4,7 +4,7 @@
 
 I created a visualization dashboard using HTML, Bootstrap, and CSS.
 
-The website is hosted here: https://bogordon86.github.io/Latitude-Vs_Weather/
+The website is hosted here: https://bogordon86.github.io/Latitude-Vs-Weather/
 
 My website has 7 pages:
 
